@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">remoteControlApp</string>
+    <string name="start_tcp">start_tcp_thread</string>
+    <string name="angle">angle</string>
+    <string name="distance">distance</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
